@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @jeffreyjparker
+- 👀 I’m interested in ...
+- vim, nvim, vimwiki, apache, linux/unix, bash, zsh, shell scripting
+- 🌱 I’m currently learning ...
+- vimwiki
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- jjp@jjparker.com
+
+<!---
+jeffreyjparker/jeffreyjparker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
